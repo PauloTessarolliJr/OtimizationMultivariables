@@ -1,0 +1,22 @@
+Paulo Roberto Tessarolli Junior
+924113
+
+Rodrigo Yasuhiro Ueda
+1026208
+
+Programa feito em c# usando .NET framework 4.0 x86
+
+Realizado com um interpretador de funções chamado YAMP:
+http://www.codeproject.com/Articles/462180/Yet-Another-Math-Parser-YAMP
+
+- Reconhece a variavel "x" e "y".
+	Exemplo de entrada: (x-2)^4+(x-2*y)^2
+
+Executavel pode ser encontrado em:
+"\OtimizaçãoMultivariaveis\bin\Debug"
+
+Alterar o arquivo T1_PO2.dat para .exe
+
+Classes para os metodos:
+"\OtimizaçãoMultivariaveis\Métodos"
+"\OtimizaçãoMultivariaveis\Auxiliares"
